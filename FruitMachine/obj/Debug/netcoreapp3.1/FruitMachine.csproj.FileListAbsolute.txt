@@ -1,0 +1,13 @@
+H:\Files\C#\Git Repositories\FruitMachine\FruitMachine\FruitMachine\bin\Debug\netcoreapp3.1\FruitMachine.exe
+H:\Files\C#\Git Repositories\FruitMachine\FruitMachine\FruitMachine\bin\Debug\netcoreapp3.1\FruitMachine.deps.json
+H:\Files\C#\Git Repositories\FruitMachine\FruitMachine\FruitMachine\bin\Debug\netcoreapp3.1\FruitMachine.runtimeconfig.json
+H:\Files\C#\Git Repositories\FruitMachine\FruitMachine\FruitMachine\bin\Debug\netcoreapp3.1\FruitMachine.runtimeconfig.dev.json
+H:\Files\C#\Git Repositories\FruitMachine\FruitMachine\FruitMachine\bin\Debug\netcoreapp3.1\FruitMachine.dll
+H:\Files\C#\Git Repositories\FruitMachine\FruitMachine\FruitMachine\bin\Debug\netcoreapp3.1\FruitMachine.pdb
+H:\Files\C#\Git Repositories\FruitMachine\FruitMachine\FruitMachine\obj\Debug\netcoreapp3.1\FruitMachine.csprojAssemblyReference.cache
+H:\Files\C#\Git Repositories\FruitMachine\FruitMachine\FruitMachine\obj\Debug\netcoreapp3.1\FruitMachine.AssemblyInfoInputs.cache
+H:\Files\C#\Git Repositories\FruitMachine\FruitMachine\FruitMachine\obj\Debug\netcoreapp3.1\FruitMachine.AssemblyInfo.cs
+H:\Files\C#\Git Repositories\FruitMachine\FruitMachine\FruitMachine\obj\Debug\netcoreapp3.1\FruitMachine.csproj.CoreCompileInputs.cache
+H:\Files\C#\Git Repositories\FruitMachine\FruitMachine\FruitMachine\obj\Debug\netcoreapp3.1\FruitMachine.dll
+H:\Files\C#\Git Repositories\FruitMachine\FruitMachine\FruitMachine\obj\Debug\netcoreapp3.1\FruitMachine.pdb
+H:\Files\C#\Git Repositories\FruitMachine\FruitMachine\FruitMachine\obj\Debug\netcoreapp3.1\FruitMachine.genruntimeconfig.cache
